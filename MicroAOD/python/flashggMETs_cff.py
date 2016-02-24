@@ -5,13 +5,14 @@ usePrivateSQlite=True
 if usePrivateSQlite:
     from CondCore.DBCommon.CondDBSetup_cfi import *
     import os
-    era = "Fall15_25nsV2"
+
 
 #============================================Apply MET correction and syst.=================================================#
 
 def runMETs(process,isMC):
     #================================ Get the most recent JEC ==================================================================#
     # Setup the private SQLite -- Ripped from PhysicsTools/PatAlgos/test/corMETFromMiniAOD.py
+    era = "Fall15_25nsV2"
     if isMC : 
         era += "_MC"
     else :

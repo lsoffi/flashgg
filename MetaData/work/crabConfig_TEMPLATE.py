@@ -14,7 +14,7 @@ config.General.transferLogs = False
 config.section_("JobType")
 config.JobType.pluginName = "Analysis"
 config.JobType.psetName = "PSET"
-
+config.JobType.allowUndistributedCMSSW = True
 ## to include local file in the sendbox, this will put the file in the directory where cmsRun runs
 config.JobType.inputFiles   = ['Fall15_25nsV2_MC.db','Fall15_25nsV2_DATA.db']
 
