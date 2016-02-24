@@ -1,22 +1,23 @@
 import FWCore.ParameterSet.Config as cms
 from PhysicsTools.PatUtils.tools.runMETCorrectionsAndUncertainties import runMetCorAndUncFromMiniAOD
 usePrivateSQlite=True
-isMC=False
+
 if usePrivateSQlite:
     from CondCore.DBCommon.CondDBSetup_cfi import *
     import os
     era = "Fall15_25nsV2"
+
+#============================================Apply MET correction and syst.=================================================#
+
+def runMETs(process,isMC):
+    #================================ Get the most recent JEC ==================================================================#
+    # Setup the private SQLite -- Ripped from PhysicsTools/PatAlgos/test/corMETFromMiniAOD.py
     if isMC : 
         era += "_MC"
     else :
         era += "_DATA"
     dBFile = os.path.expandvars(era+".db")
 
-#============================================Apply MET correction and syst.=================================================#
-
-def runMETs(process):
-    #================================ Get the most recent JEC ==================================================================#
-    # Setup the private SQLite -- Ripped from PhysicsTools/PatAlgos/test/corMETFromMiniAOD.py
     if usePrivateSQlite:
         process.jec = cms.ESSource("PoolDBESSource",
                                    CondDBSetup,

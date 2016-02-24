@@ -95,9 +95,9 @@ process.out = cms.OutputModule("PoolOutputModule", fileName = cms.untracked.stri
 
 # All jets are now handled in MicroAODCustomize.py
 # Switch from PFCHS to PUPPI with puppi=1 argument (both if puppi=2)
-
+isMC=True
 from flashgg.MicroAOD.flashggMETs_cff import runMETs
-runMETs(process)
+runMETs(process,isMC)
 
 process.p = cms.Path(process.flashggMicroAODSequence)#+process.METReader)
 process.e = cms.EndPath(process.out)
