@@ -230,6 +230,8 @@ if options.createCrabConfig:
     print ("Parameter set: %s\nflashggVersion: %s\ncrab template: %s\n" % (options.parameterSet,flashggVersion,options.crabTemplate))
     print ("Copying over parameter set")
     Popen(['cp', '-p', options.parameterSet, './'])
+    Popen(['cp', '-p', '/afs/cern.ch/work/s/soffi/CMSSW763-MonoHgg/src/flashgg/MicroAOD/test/Fall15_25nsV2_DATA.db', './'])
+    Popen(['cp', '-p', '/afs/cern.ch/work/s/soffi/CMSSW763-MonoHgg/src/flashgg/MicroAOD/test/Fall15_25nsV2_MC.db', './'])
     print ("Storing options into config.json")
     cfg = open("config.json","w+")
     cfg.write( dumpCfg(options) )
