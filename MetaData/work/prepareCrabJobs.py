@@ -27,7 +27,7 @@ parser = OptionParser(option_list=[
                     ),
         make_option("-p","--pset",
                     action="store", dest="parameterSet", type="string",
-                    default="../../MicroAOD/test/microAODstd.py", # FIXME should move it to production eventually
+                    default="../../MicroAOD/test/microAODstdMETsyst.py", # FIXME should move it to production eventually
                     help="CMSSW parameter set. default: %default", 
                     ),
         make_option("-t","--crabTemplate",
@@ -75,7 +75,7 @@ parser = OptionParser(option_list=[
                     ),
         make_option("-o","--outputPath",
                     dest="outputPath",action="store",type="string",
-                    default="/store/group/phys_higgs/cmshgg/%s/flashgg" % os.getlogin(),
+                    default="/store/user/%s/flashgg" % os.getlogin(),
                     help="output storage path. default: %default",
                     ),
         make_option("-C","--campaign",
@@ -85,7 +85,7 @@ parser = OptionParser(option_list=[
                     ),
         make_option("-O","--outputSite",
                     dest="outputSite",action="store",type="string",
-                    default="T2_CH_CERN",
+                    default="T2_IT_Rome",
                     help="output storage path. default: %default",
                     ),
         make_option("--mkPilot",
