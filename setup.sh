@@ -104,7 +104,13 @@ cd $CMSSW_BASE/src
 echo "Setting up TnP tools..."
 #git cms-addpkg DataFormats/RecoCandidate
 #git cms-addpkg PhysiscsTools/TagAndProbe
-git cms-merge-topic -u matteosan1:egm_tnp_76X
+git cms-merge-topic -u matteosan1:egm_tnp_76X_v1
+git cms-merge-topic -u matteosan1:smearer_76X_test
+git remote add cmssw-ferriff https://github.com/ferriff/cmssw.git
+git fetch cmssw-ferriff
+git cherry-pick 5a028c0bd8fe8ea932ee602f2e82c455489f4ad1
+git cherry-pick a2dc7fa601a13b43e79c118ba8cb746f8dd684ce
+git cherry-pick 415903611957b5bd9f0b3f0c657cb903437db4f8
 
 echo "Setting up weight and pat electron conversion..."
 git cms-addpkg CommonTools/UtilAlgos
@@ -118,8 +124,8 @@ git remote rm cmssw-sethzenz
 echo "Setting up PDF weight tool..."
 #git-cms-merge-topic bendavid:pdfweights_76x
 git cms-addpkg PhysicsTools/HepMCCandAlgos
-git cherry-pick 9e4300582f284fa1fed6dcdbee88b3f75da39165
-
+#git cherry-pick 9e4300582f284fa1fed6dcdbee88b3f75da39165
+git cherry-pick ca5f8100a28c597ad118e3a4b3dcadda7f6e45ca
 
 echo "adding hook for indentation"
 ln -s $CMSSW_BASE/src/flashgg/Validation/scripts/flashgg_indent_check.sh $CMSSW_BASE/src/flashgg/.git/hooks/pre-commit

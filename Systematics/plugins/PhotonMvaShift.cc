@@ -12,7 +12,7 @@ namespace flashgg {
     public:
         typedef StringCutObjectSelector<Photon, true> selector_type;
 
-        PhotonMvaShift( const edm::ParameterSet &conf );
+        PhotonMvaShift( const edm::ParameterSet &conf, edm::ConsumesCollector && iC, const GlobalVariablesComputer *gv );
         void applyCorrection( flashgg::Photon &y, int syst_shift ) override;
         std::string shiftLabel( int ) const override;
 
@@ -20,8 +20,8 @@ namespace flashgg {
         selector_type overall_range_;
     };
 
-    PhotonMvaShift::PhotonMvaShift( const edm::ParameterSet &conf ) :
-        ObjectSystMethodBinnedByFunctor( conf ),
+    PhotonMvaShift::PhotonMvaShift( const edm::ParameterSet &conf, edm::ConsumesCollector && iC, const GlobalVariablesComputer *gv ) :
+        ObjectSystMethodBinnedByFunctor( conf, std::forward<edm::ConsumesCollector>(iC), gv ),
         overall_range_( conf.getParameter<std::string>( "OverallRange" ) )
     {
     }
@@ -45,6 +45,7 @@ namespace flashgg {
             auto val_err = binContents( y );
             if( val_err.first.size() == 1 && val_err.second.size() == 1 ) { // otherwise no-op because we don't have an entry
                 float shift_val = val_err.first[0];  // e.g. 0 if no central value change
+                if (!applyCentralValue()) shift_val = 0.;
                 float shift_err = val_err.second[0]; // e.g. 0.1
                 float shift = shift_val + syst_shift * shift_err;
                 std::vector<edm::Ptr<reco::Vertex> > keys;
