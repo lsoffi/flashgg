@@ -1,0 +1,46 @@
+{
+    "checkIfOnT2": false, 
+    "crabTemplate": "/afs/cern.ch/work/s/soffi/CMSSW763-MonoHgg/src/flashgg/MetaData/work/crabConfig_TEMPLATE.py", 
+    "verbose": false, 
+    "campaign": "RunIIFall15DR76-1_3_0-25ns_ext1", 
+    "unitsPerJob": 5, 
+    "createCrabConfig": true, 
+    "checkNFiles": false, 
+    "samples_src": "campaigns/RunIIFall15DR76-1_3_0-25ns_ext1.json", 
+    "lumiMask": "/afs/cern.ch/work/s/soffi/CMSSW763-MonoHgg/src/flashgg/MetaData/work/jsons/Cert_246908-260627_13TeV_PromptReco_Collisions15_25ns_JSON_v2.txt", 
+    "outputPath": "/store/user/soffi/flashgg", 
+    "mkPilot": false, 
+    "globalTags": "campaigns/globalTagsLookup.json", 
+    "label": null, 
+    "samples": {
+        "data": [
+            "/DoubleEG/Run2015D-16Dec2015-v2/MINIAOD"
+        ], 
+        "bkg": [
+            "/ZZTo2L2Nu_13TeV_powheg_pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM", 
+            "/ZGTo2LG_TuneCUETP8M1_13TeV-amcatnloFXFX-pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM", 
+            "/WGToLNuG_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM", 
+            "/TGJets_TuneCUETP8M1_13TeV_amcatnlo_madspin_pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext1-v1/MINIAODSIM", 
+            "/TTGG_0Jets_TuneCUETP8M1_13TeV_amcatnlo_madspin_pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM", 
+            "/TTGJets_TuneCUETP8M1_13TeV-amcatnloFXFX-madspin-pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM", 
+            "/GJet_Pt-20to40_DoubleEMEnriched_MGG-80toInf_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM", 
+            "/GJet_Pt-40toInf_DoubleEMEnriched_MGG-80toInf_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM", 
+            "/QCD_Pt-30to40_DoubleEMEnriched_MGG-80toInf_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM", 
+            "/QCD_Pt-40toInf_DoubleEMEnriched_MGG-80toInf_TuneCUETP8M1_13TeV_Pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM", 
+            "/DYJetsToLL_M-50_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM", 
+            "/DiPhotonJets_MGG-80toInf_13TeV_amcatnloFXFX_pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM"
+        ], 
+        "sig": [
+            "/GluGluHToGG_M125_13TeV_amcatnloFXFX_pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM", 
+            "/VBFHToGG_M125_13TeV_amcatnlo_pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext1-v1/MINIAODSIM", 
+            "/ttHJetToGG_M125_13TeV_amcatnloFXFX_madspin_pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM", 
+            "/VHToGG_M125_13TeV_amcatnloFXFX_madspin_pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v4/MINIAODSIM"
+        ]
+    }, 
+    "lumisPerJob": 25, 
+    "outputSite": "T2_IT_Rome", 
+    "extraPyCfgParam": null, 
+    "flashggVersion": "1_3_0", 
+    "parameterSet": "/afs/cern.ch/work/s/soffi/CMSSW763-MonoHgg/src/flashgg/MicroAOD/test/microAODstdMETsyst.py", 
+    "__opts__": null
+}

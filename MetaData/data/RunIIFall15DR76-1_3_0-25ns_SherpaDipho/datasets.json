@@ -1,0 +1,1539 @@
+{
+    "/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/soffi-RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1-a7f3b0c9029559aedf53e8ded83057c8/USER": {
+        "files": [
+            {
+                "bad": false, 
+                "events": 195307, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_100.root", 
+                "nevents": 195307, 
+                "totEvents": 195307, 
+                "weights": 92839.0078125
+            }, 
+            {
+                "bad": false, 
+                "events": 196563, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_102.root", 
+                "nevents": 196563, 
+                "totEvents": 196563, 
+                "weights": 92905.7734375
+            }, 
+            {
+                "bad": true, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_104.root", 
+                "nevents": 188714
+            }, 
+            {
+                "bad": false, 
+                "events": 194206, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_107.root", 
+                "nevents": 194206, 
+                "totEvents": 194206, 
+                "weights": 92107.0703125
+            }, 
+            {
+                "bad": false, 
+                "events": 224353, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_108.root", 
+                "nevents": 224353, 
+                "totEvents": 224353, 
+                "weights": 106100.9921875
+            }, 
+            {
+                "bad": false, 
+                "events": 205670, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_11.root", 
+                "nevents": 205670, 
+                "totEvents": 205670, 
+                "weights": 97382.1328125
+            }, 
+            {
+                "bad": false, 
+                "events": 219640, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_111.root", 
+                "nevents": 219640, 
+                "totEvents": 219640, 
+                "weights": 103581.125
+            }, 
+            {
+                "bad": false, 
+                "events": 225764, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_112.root", 
+                "nevents": 225764, 
+                "totEvents": 225764, 
+                "weights": 107009.59375
+            }, 
+            {
+                "bad": false, 
+                "events": 206766, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_113.root", 
+                "nevents": 206766, 
+                "totEvents": 206766, 
+                "weights": 97523.9453125
+            }, 
+            {
+                "bad": false, 
+                "events": 216186, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_114.root", 
+                "nevents": 216186, 
+                "totEvents": 216186, 
+                "weights": 101889.0078125
+            }, 
+            {
+                "bad": false, 
+                "events": 191225, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_115.root", 
+                "nevents": 191225, 
+                "totEvents": 191225, 
+                "weights": 89854.4140625
+            }, 
+            {
+                "bad": false, 
+                "events": 182276, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_116.root", 
+                "nevents": 182276, 
+                "totEvents": 182276, 
+                "weights": 86223.578125
+            }, 
+            {
+                "bad": false, 
+                "events": 201585, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_117.root", 
+                "nevents": 201585, 
+                "totEvents": 201585, 
+                "weights": 95270.984375
+            }, 
+            {
+                "bad": false, 
+                "events": 184474, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_118.root", 
+                "nevents": 184474, 
+                "totEvents": 184474, 
+                "weights": 87188.8046875
+            }, 
+            {
+                "bad": false, 
+                "events": 190127, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_119.root", 
+                "nevents": 190127, 
+                "totEvents": 190127, 
+                "weights": 89838.828125
+            }, 
+            {
+                "bad": false, 
+                "events": 215717, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_12.root", 
+                "nevents": 215717, 
+                "totEvents": 215717, 
+                "weights": 102161.0703125
+            }, 
+            {
+                "bad": false, 
+                "events": 204257, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_120.root", 
+                "nevents": 204257, 
+                "totEvents": 204257, 
+                "weights": 96523.53125
+            }, 
+            {
+                "bad": false, 
+                "events": 205669, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_121.root", 
+                "nevents": 205669, 
+                "totEvents": 205669, 
+                "weights": 97717.0703125
+            }, 
+            {
+                "bad": false, 
+                "events": 206297, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_122.root", 
+                "nevents": 206297, 
+                "totEvents": 206297, 
+                "weights": 97614.2421875
+            }, 
+            {
+                "bad": false, 
+                "events": 222621, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_123.root", 
+                "nevents": 222621, 
+                "totEvents": 222621, 
+                "weights": 105151.8359375
+            }, 
+            {
+                "bad": false, 
+                "events": 223724, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_124.root", 
+                "nevents": 223724, 
+                "totEvents": 223724, 
+                "weights": 106040.9140625
+            }, 
+            {
+                "bad": false, 
+                "events": 224979, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_125.root", 
+                "nevents": 224979, 
+                "totEvents": 224979, 
+                "weights": 106717.265625
+            }, 
+            {
+                "bad": false, 
+                "events": 181962, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_126.root", 
+                "nevents": 181962, 
+                "totEvents": 181962, 
+                "weights": 86283.296875
+            }, 
+            {
+                "bad": false, 
+                "events": 207553, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_128.root", 
+                "nevents": 207553, 
+                "totEvents": 207553, 
+                "weights": 98049.109375
+            }, 
+            {
+                "bad": false, 
+                "events": 211479, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_129.root", 
+                "nevents": 211479, 
+                "totEvents": 211479, 
+                "weights": 100211.0234375
+            }, 
+            {
+                "bad": false, 
+                "events": 213834, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_13.root", 
+                "nevents": 213834, 
+                "totEvents": 213834, 
+                "weights": 101194.3515625
+            }, 
+            {
+                "bad": false, 
+                "events": 198133, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_132.root", 
+                "nevents": 198133, 
+                "totEvents": 198133, 
+                "weights": 93483.203125
+            }, 
+            {
+                "bad": false, 
+                "events": 181962, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_133.root", 
+                "nevents": 181962, 
+                "totEvents": 181962, 
+                "weights": 85903.140625
+            }, 
+            {
+                "bad": false, 
+                "events": 213834, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_134.root", 
+                "nevents": 213834, 
+                "totEvents": 213834, 
+                "weights": 100878.15625
+            }, 
+            {
+                "bad": false, 
+                "events": 220113, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_135.root", 
+                "nevents": 220113, 
+                "totEvents": 220113, 
+                "weights": 103956.5703125
+            }, 
+            {
+                "bad": true, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_136.root", 
+                "nevents": 189656
+            }, 
+            {
+                "bad": false, 
+                "events": 206454, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_137.root", 
+                "nevents": 206454, 
+                "totEvents": 206454, 
+                "weights": 97445.9140625
+            }, 
+            {
+                "bad": false, 
+                "events": 192795, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_138.root", 
+                "nevents": 192795, 
+                "totEvents": 192795, 
+                "weights": 91092.9765625
+            }, 
+            {
+                "bad": false, 
+                "events": 201745, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_139.root", 
+                "nevents": 201745, 
+                "totEvents": 201745, 
+                "weights": 95444.375
+            }, 
+            {
+                "bad": false, 
+                "events": 192481, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_14.root", 
+                "nevents": 192481, 
+                "totEvents": 192481, 
+                "weights": 90937.125
+            }, 
+            {
+                "bad": false, 
+                "events": 213675, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_140.root", 
+                "nevents": 213675, 
+                "totEvents": 213675, 
+                "weights": 100999.0234375
+            }, 
+            {
+                "bad": false, 
+                "events": 202529, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_141.root", 
+                "nevents": 202529, 
+                "totEvents": 202529, 
+                "weights": 96142.3125
+            }, 
+            {
+                "bad": false, 
+                "events": 225608, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_143.root", 
+                "nevents": 225608, 
+                "totEvents": 225608, 
+                "weights": 106814.375
+            }, 
+            {
+                "bad": false, 
+                "events": 206611, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_144.root", 
+                "nevents": 206611, 
+                "totEvents": 206611, 
+                "weights": 97736.5859375
+            }, 
+            {
+                "bad": false, 
+                "events": 213046, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_145.root", 
+                "nevents": 213046, 
+                "totEvents": 213046, 
+                "weights": 100594.4765625
+            }, 
+            {
+                "bad": false, 
+                "events": 204097, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_146.root", 
+                "nevents": 204097, 
+                "totEvents": 204097, 
+                "weights": 96726.234375
+            }, 
+            {
+                "bad": false, 
+                "events": 198447, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_147.root", 
+                "nevents": 198447, 
+                "totEvents": 198447, 
+                "weights": 94057.5078125
+            }, 
+            {
+                "bad": true, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_148.root", 
+                "nevents": 213362
+            }, 
+            {
+                "bad": false, 
+                "events": 193266, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_149.root", 
+                "nevents": 193266, 
+                "totEvents": 193266, 
+                "weights": 91438.1015625
+            }, 
+            {
+                "bad": false, 
+                "events": 200957, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_15.root", 
+                "nevents": 200957, 
+                "totEvents": 200957, 
+                "weights": 94779.4453125
+            }, 
+            {
+                "bad": false, 
+                "events": 205512, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_150.root", 
+                "nevents": 205512, 
+                "totEvents": 205512, 
+                "weights": 96958.984375
+            }, 
+            {
+                "bad": false, 
+                "events": 230317, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_151.root", 
+                "nevents": 230317, 
+                "totEvents": 230317, 
+                "weights": 108742.1640625
+            }, 
+            {
+                "bad": false, 
+                "events": 209751, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_152.root", 
+                "nevents": 209751, 
+                "totEvents": 209751, 
+                "weights": 99174.9140625
+            }, 
+            {
+                "bad": false, 
+                "events": 219012, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_154.root", 
+                "nevents": 219012, 
+                "totEvents": 219012, 
+                "weights": 103206.9453125
+            }, 
+            {
+                "bad": false, 
+                "events": 219954, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_156.root", 
+                "nevents": 219954, 
+                "totEvents": 219954, 
+                "weights": 104016.9765625
+            }, 
+            {
+                "bad": false, 
+                "events": 196092, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_157.root", 
+                "nevents": 196092, 
+                "totEvents": 196092, 
+                "weights": 92894.5078125
+            }, 
+            {
+                "bad": false, 
+                "events": 200173, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_158.root", 
+                "nevents": 200173, 
+                "totEvents": 200173, 
+                "weights": 94763.3828125
+            }, 
+            {
+                "bad": false, 
+                "events": 207081, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_159.root", 
+                "nevents": 207081, 
+                "totEvents": 207081, 
+                "weights": 98015.3125
+            }, 
+            {
+                "bad": false, 
+                "events": 207710, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_16.root", 
+                "nevents": 207710, 
+                "totEvents": 207710, 
+                "weights": 98525.2734375
+            }, 
+            {
+                "bad": false, 
+                "events": 198132, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_160.root", 
+                "nevents": 198132, 
+                "totEvents": 198132, 
+                "weights": 93788.7734375
+            }, 
+            {
+                "bad": false, 
+                "events": 199232, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_161.root", 
+                "nevents": 199232, 
+                "totEvents": 199232, 
+                "weights": 94422.7578125
+            }, 
+            {
+                "bad": true, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_162.root", 
+                "nevents": 203156
+            }, 
+            {
+                "bad": false, 
+                "events": 233929, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_164.root", 
+                "nevents": 233929, 
+                "totEvents": 233929, 
+                "weights": 110664.1171875
+            }, 
+            {
+                "bad": false, 
+                "events": 207867, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_165.root", 
+                "nevents": 207867, 
+                "totEvents": 207867, 
+                "weights": 98515.453125
+            }, 
+            {
+                "bad": false, 
+                "events": 200175, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_166.root", 
+                "nevents": 200175, 
+                "totEvents": 200175, 
+                "weights": 94595.65625
+            }, 
+            {
+                "bad": false, 
+                "events": 191694, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_167.root", 
+                "nevents": 191694, 
+                "totEvents": 191694, 
+                "weights": 90743.2421875
+            }, 
+            {
+                "bad": false, 
+                "events": 204881, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_168.root", 
+                "nevents": 204881, 
+                "totEvents": 204881, 
+                "weights": 96848.4921875
+            }, 
+            {
+                "bad": false, 
+                "events": 215247, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_169.root", 
+                "nevents": 215247, 
+                "totEvents": 215247, 
+                "weights": 101988.71875
+            }, 
+            {
+                "bad": false, 
+                "events": 206610, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_17.root", 
+                "nevents": 206610, 
+                "totEvents": 206610, 
+                "weights": 97713.859375
+            }, 
+            {
+                "bad": false, 
+                "events": 201116, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_170.root", 
+                "nevents": 201116, 
+                "totEvents": 201116, 
+                "weights": 95499.25
+            }, 
+            {
+                "bad": false, 
+                "events": 200644, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_171.root", 
+                "nevents": 200644, 
+                "totEvents": 200644, 
+                "weights": 94869.75
+            }, 
+            {
+                "bad": false, 
+                "events": 218856, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_172.root", 
+                "nevents": 218856, 
+                "totEvents": 218856, 
+                "weights": 103262.65625
+            }, 
+            {
+                "bad": false, 
+                "events": 222310, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_173.root", 
+                "nevents": 222310, 
+                "totEvents": 222310, 
+                "weights": 105125.5234375
+            }, 
+            {
+                "bad": false, 
+                "events": 222154, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_174.root", 
+                "nevents": 222154, 
+                "totEvents": 222154, 
+                "weights": 105151.7109375
+            }, 
+            {
+                "bad": false, 
+                "events": 219484, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_175.root", 
+                "nevents": 219484, 
+                "totEvents": 219484, 
+                "weights": 103810.71875
+            }, 
+            {
+                "bad": false, 
+                "events": 230944, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_176.root", 
+                "nevents": 230944, 
+                "totEvents": 230944, 
+                "weights": 109006.7421875
+            }, 
+            {
+                "bad": false, 
+                "events": 228434, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_177.root", 
+                "nevents": 228434, 
+                "totEvents": 228434, 
+                "weights": 108293.421875
+            }, 
+            {
+                "bad": true, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_178.root", 
+                "nevents": 207865
+            }, 
+            {
+                "bad": true, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_179.root", 
+                "nevents": 196250
+            }, 
+            {
+                "bad": false, 
+                "events": 231261, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_18.root", 
+                "nevents": 231261, 
+                "totEvents": 231261, 
+                "weights": 109375.03125
+            }, 
+            {
+                "bad": false, 
+                "events": 220742, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_180.root", 
+                "nevents": 220742, 
+                "totEvents": 220742, 
+                "weights": 104286.046875
+            }, 
+            {
+                "bad": false, 
+                "events": 220897, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_181.root", 
+                "nevents": 220897, 
+                "totEvents": 220897, 
+                "weights": 104751.625
+            }, 
+            {
+                "bad": false, 
+                "events": 203940, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_184.root", 
+                "nevents": 203940, 
+                "totEvents": 203940, 
+                "weights": 96437.5234375
+            }, 
+            {
+                "bad": false, 
+                "events": 211320, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_186.root", 
+                "nevents": 211320, 
+                "totEvents": 211320, 
+                "weights": 99989.3359375
+            }, 
+            {
+                "bad": false, 
+                "events": 208966, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_187.root", 
+                "nevents": 208966, 
+                "totEvents": 208966, 
+                "weights": 99074.828125
+            }, 
+            {
+                "bad": false, 
+                "events": 206768, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_188.root", 
+                "nevents": 206768, 
+                "totEvents": 206768, 
+                "weights": 98040.9609375
+            }, 
+            {
+                "bad": false, 
+                "events": 224194, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_19.root", 
+                "nevents": 224194, 
+                "totEvents": 224194, 
+                "weights": 106239.8046875
+            }, 
+            {
+                "bad": false, 
+                "events": 203000, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_190.root", 
+                "nevents": 203000, 
+                "totEvents": 203000, 
+                "weights": 96229.2265625
+            }, 
+            {
+                "bad": true, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_192.root", 
+                "nevents": 194994
+            }, 
+            {
+                "bad": false, 
+                "events": 215716, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_193.root", 
+                "nevents": 215716, 
+                "totEvents": 215716, 
+                "weights": 101749.1015625
+            }, 
+            {
+                "bad": false, 
+                "events": 232988, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_195.root", 
+                "nevents": 232988, 
+                "totEvents": 232988, 
+                "weights": 110088.796875
+            }, 
+            {
+                "bad": false, 
+                "events": 202371, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_196.root", 
+                "nevents": 202371, 
+                "totEvents": 202371, 
+                "weights": 95454.7421875
+            }, 
+            {
+                "bad": false, 
+                "events": 227334, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_198.root", 
+                "nevents": 227334, 
+                "totEvents": 227334, 
+                "weights": 107625.3359375
+            }, 
+            {
+                "bad": false, 
+                "events": 192639, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_20.root", 
+                "nevents": 192639, 
+                "totEvents": 192639, 
+                "weights": 91017.796875
+            }, 
+            {
+                "bad": false, 
+                "events": 232358, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_202.root", 
+                "nevents": 232358, 
+                "totEvents": 232358, 
+                "weights": 109660.1171875
+            }, 
+            {
+                "bad": false, 
+                "events": 208496, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_203.root", 
+                "nevents": 208496, 
+                "totEvents": 208496, 
+                "weights": 98732.296875
+            }, 
+            {
+                "bad": false, 
+                "events": 216346, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_204.root", 
+                "nevents": 216346, 
+                "totEvents": 216346, 
+                "weights": 102334.890625
+            }, 
+            {
+                "bad": false, 
+                "events": 215556, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_206.root", 
+                "nevents": 215556, 
+                "totEvents": 215556, 
+                "weights": 101726.8203125
+            }, 
+            {
+                "bad": false, 
+                "events": 198605, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_207.root", 
+                "nevents": 198605, 
+                "totEvents": 198605, 
+                "weights": 93676.3828125
+            }, 
+            {
+                "bad": false, 
+                "events": 211950, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_210.root", 
+                "nevents": 211950, 
+                "totEvents": 211950, 
+                "weights": 100016.5
+            }, 
+            {
+                "bad": false, 
+                "events": 213520, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_212.root", 
+                "nevents": 213520, 
+                "totEvents": 213520, 
+                "weights": 100516.28125
+            }, 
+            {
+                "bad": false, 
+                "events": 215716, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_213.root", 
+                "nevents": 215716, 
+                "totEvents": 215716, 
+                "weights": 101915.0625
+            }, 
+            {
+                "bad": false, 
+                "events": 227334, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_214.root", 
+                "nevents": 227334, 
+                "totEvents": 227334, 
+                "weights": 107344.9296875
+            }, 
+            {
+                "bad": false, 
+                "events": 210848, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_216.root", 
+                "nevents": 210848, 
+                "totEvents": 210848, 
+                "weights": 99584.46875
+            }, 
+            {
+                "bad": true, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_217.root", 
+                "nevents": 223252
+            }, 
+            {
+                "bad": false, 
+                "events": 201745, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_218.root", 
+                "nevents": 201745, 
+                "totEvents": 201745, 
+                "weights": 95294.25
+            }, 
+            {
+                "bad": false, 
+                "events": 184003, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_22.root", 
+                "nevents": 184003, 
+                "totEvents": 184003, 
+                "weights": 86842.5234375
+            }, 
+            {
+                "bad": false, 
+                "events": 202215, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_220.root", 
+                "nevents": 202215, 
+                "totEvents": 202215, 
+                "weights": 95731.0703125
+            }, 
+            {
+                "bad": false, 
+                "events": 194522, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_222.root", 
+                "nevents": 194522, 
+                "totEvents": 194522, 
+                "weights": 91686.9453125
+            }, 
+            {
+                "bad": false, 
+                "events": 218857, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_225.root", 
+                "nevents": 218857, 
+                "totEvents": 218857, 
+                "weights": 103350.296875
+            }, 
+            {
+                "bad": false, 
+                "events": 205982, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_227.root", 
+                "nevents": 205982, 
+                "totEvents": 205982, 
+                "weights": 97108.6640625
+            }, 
+            {
+                "bad": false, 
+                "events": 212419, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_23.root", 
+                "nevents": 212419, 
+                "totEvents": 212419, 
+                "weights": 100468.734375
+            }, 
+            {
+                "bad": false, 
+                "events": 201430, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_231.root", 
+                "nevents": 201430, 
+                "totEvents": 201430, 
+                "weights": 95547.75
+            }, 
+            {
+                "bad": false, 
+                "events": 210377, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_232.root", 
+                "nevents": 210377, 
+                "totEvents": 210377, 
+                "weights": 99384.703125
+            }, 
+            {
+                "bad": false, 
+                "events": 176777, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_233.root", 
+                "nevents": 176777, 
+                "totEvents": 176777, 
+                "weights": 83868.703125
+            }, 
+            {
+                "bad": false, 
+                "events": 216028, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_235.root", 
+                "nevents": 216028, 
+                "totEvents": 216028, 
+                "weights": 102043.0703125
+            }, 
+            {
+                "bad": false, 
+                "events": 215560, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_236.root", 
+                "nevents": 215560, 
+                "totEvents": 215560, 
+                "weights": 102134.0078125
+            }, 
+            {
+                "bad": false, 
+                "events": 219014, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_237.root", 
+                "nevents": 219014, 
+                "totEvents": 219014, 
+                "weights": 103978.1953125
+            }, 
+            {
+                "bad": false, 
+                "events": 196878, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_238.root", 
+                "nevents": 196878, 
+                "totEvents": 196878, 
+                "weights": 93332.03125
+            }, 
+            {
+                "bad": false, 
+                "events": 208024, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_24.root", 
+                "nevents": 208024, 
+                "totEvents": 208024, 
+                "weights": 98028.0
+            }, 
+            {
+                "bad": false, 
+                "events": 201744, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_240.root", 
+                "nevents": 201744, 
+                "totEvents": 201744, 
+                "weights": 95220.90625
+            }, 
+            {
+                "bad": true, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_242.root", 
+                "nevents": 192167
+            }, 
+            {
+                "bad": false, 
+                "events": 214773, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_243.root", 
+                "nevents": 214773, 
+                "totEvents": 214773, 
+                "weights": 101671.0078125
+            }, 
+            {
+                "bad": false, 
+                "events": 191854, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_246.root", 
+                "nevents": 191854, 
+                "totEvents": 191854, 
+                "weights": 90818.34375
+            }, 
+            {
+                "bad": false, 
+                "events": 218387, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_247.root", 
+                "nevents": 218387, 
+                "totEvents": 218387, 
+                "weights": 103398.0390625
+            }, 
+            {
+                "bad": false, 
+                "events": 214619, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_248.root", 
+                "nevents": 214619, 
+                "totEvents": 214619, 
+                "weights": 101301.7421875
+            }, 
+            {
+                "bad": true, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_25.root", 
+                "nevents": 222939
+            }, 
+            {
+                "bad": false, 
+                "events": 147735, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_251.root", 
+                "nevents": 147735, 
+                "totEvents": 147735, 
+                "weights": 70142.859375
+            }, 
+            {
+                "bad": false, 
+                "events": 188086, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_253.root", 
+                "nevents": 188086, 
+                "totEvents": 188086, 
+                "weights": 89070.515625
+            }, 
+            {
+                "bad": false, 
+                "events": 193109, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_254.root", 
+                "nevents": 193109, 
+                "totEvents": 193109, 
+                "weights": 91118.0234375
+            }, 
+            {
+                "bad": false, 
+                "events": 211008, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_257.root", 
+                "nevents": 211008, 
+                "totEvents": 211008, 
+                "weights": 99538.21875
+            }, 
+            {
+                "bad": false, 
+                "events": 192482, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_258.root", 
+                "nevents": 192482, 
+                "totEvents": 192482, 
+                "weights": 90782.8046875
+            }, 
+            {
+                "bad": false, 
+                "events": 204413, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_26.root", 
+                "nevents": 204413, 
+                "totEvents": 204413, 
+                "weights": 96541.7109375
+            }, 
+            {
+                "bad": false, 
+                "events": 209908, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_260.root", 
+                "nevents": 209908, 
+                "totEvents": 209908, 
+                "weights": 99050.1953125
+            }, 
+            {
+                "bad": false, 
+                "events": 184785, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_264.root", 
+                "nevents": 184785, 
+                "totEvents": 184785, 
+                "weights": 87568.9453125
+            }, 
+            {
+                "bad": false, 
+                "events": 194052, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_269.root", 
+                "nevents": 194052, 
+                "totEvents": 194052, 
+                "weights": 91825.2578125
+            }, 
+            {
+                "bad": false, 
+                "events": 218700, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_27.root", 
+                "nevents": 218700, 
+                "totEvents": 218700, 
+                "weights": 103795.0859375
+            }, 
+            {
+                "bad": false, 
+                "events": 197348, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_271.root", 
+                "nevents": 197348, 
+                "totEvents": 197348, 
+                "weights": 93277.5390625
+            }, 
+            {
+                "bad": true, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_273.root", 
+                "nevents": 186359
+            }, 
+            {
+                "bad": false, 
+                "events": 213991, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_274.root", 
+                "nevents": 213991, 
+                "totEvents": 213991, 
+                "weights": 101351.9375
+            }, 
+            {
+                "bad": false, 
+                "events": 203471, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_278.root", 
+                "nevents": 203471, 
+                "totEvents": 203471, 
+                "weights": 96218.890625
+            }, 
+            {
+                "bad": false, 
+                "events": 196564, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_280.root", 
+                "nevents": 196564, 
+                "totEvents": 196564, 
+                "weights": 92806.2890625
+            }, 
+            {
+                "bad": false, 
+                "events": 222938, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_29.root", 
+                "nevents": 222938, 
+                "totEvents": 222938, 
+                "weights": 105122.3515625
+            }, 
+            {
+                "bad": false, 
+                "events": 208336, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_30.root", 
+                "nevents": 208336, 
+                "totEvents": 208336, 
+                "weights": 98303.5234375
+            }, 
+            {
+                "bad": false, 
+                "events": 221212, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_31.root", 
+                "nevents": 221212, 
+                "totEvents": 221212, 
+                "weights": 104290.2734375
+            }, 
+            {
+                "bad": false, 
+                "events": 196876, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_32.root", 
+                "nevents": 196876, 
+                "totEvents": 196876, 
+                "weights": 93116.5078125
+            }, 
+            {
+                "bad": false, 
+                "events": 210219, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_33.root", 
+                "nevents": 210219, 
+                "totEvents": 210219, 
+                "weights": 99245.625
+            }, 
+            {
+                "bad": false, 
+                "events": 212577, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_34.root", 
+                "nevents": 212577, 
+                "totEvents": 212577, 
+                "weights": 100439.7421875
+            }, 
+            {
+                "bad": false, 
+                "events": 208650, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_35.root", 
+                "nevents": 208650, 
+                "totEvents": 208650, 
+                "weights": 98896.6875
+            }, 
+            {
+                "bad": false, 
+                "events": 224038, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_36.root", 
+                "nevents": 224038, 
+                "totEvents": 224038, 
+                "weights": 105955.78125
+            }, 
+            {
+                "bad": false, 
+                "events": 207082, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_37.root", 
+                "nevents": 207082, 
+                "totEvents": 207082, 
+                "weights": 97723.6328125
+            }, 
+            {
+                "bad": false, 
+                "events": 213517, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_39.root", 
+                "nevents": 213517, 
+                "totEvents": 213517, 
+                "weights": 101020.234375
+            }, 
+            {
+                "bad": false, 
+                "events": 214148, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_40.root", 
+                "nevents": 214148, 
+                "totEvents": 214148, 
+                "weights": 101491.2265625
+            }, 
+            {
+                "bad": false, 
+                "events": 199545, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_41.root", 
+                "nevents": 199545, 
+                "totEvents": 199545, 
+                "weights": 94512.453125
+            }, 
+            {
+                "bad": false, 
+                "events": 221527, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_42.root", 
+                "nevents": 221527, 
+                "totEvents": 221527, 
+                "weights": 104952.7890625
+            }, 
+            {
+                "bad": true, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_43.root", 
+                "nevents": 213988
+            }, 
+            {
+                "bad": false, 
+                "events": 214933, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_44.root", 
+                "nevents": 214933, 
+                "totEvents": 214933, 
+                "weights": 101676.1953125
+            }, 
+            {
+                "bad": false, 
+                "events": 211635, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_45.root", 
+                "nevents": 211635, 
+                "totEvents": 211635, 
+                "weights": 100453.515625
+            }, 
+            {
+                "bad": false, 
+                "events": 208807, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_47.root", 
+                "nevents": 208807, 
+                "totEvents": 208807, 
+                "weights": 98705.625
+            }, 
+            {
+                "bad": false, 
+                "events": 197820, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_48.root", 
+                "nevents": 197820, 
+                "totEvents": 197820, 
+                "weights": 93272.6796875
+            }, 
+            {
+                "bad": false, 
+                "events": 236907, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_49.root", 
+                "nevents": 236907, 
+                "totEvents": 236907, 
+                "weights": 112020.34375
+            }, 
+            {
+                "bad": false, 
+                "events": 209123, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_50.root", 
+                "nevents": 209123, 
+                "totEvents": 209123, 
+                "weights": 99237.7578125
+            }, 
+            {
+                "bad": false, 
+                "events": 209909, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_51.root", 
+                "nevents": 209909, 
+                "totEvents": 209909, 
+                "weights": 99351.390625
+            }, 
+            {
+                "bad": false, 
+                "events": 231731, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_52.root", 
+                "nevents": 231731, 
+                "totEvents": 231731, 
+                "weights": 109633.8515625
+            }, 
+            {
+                "bad": false, 
+                "events": 215245, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_53.root", 
+                "nevents": 215245, 
+                "totEvents": 215245, 
+                "weights": 102163.53125
+            }, 
+            {
+                "bad": false, 
+                "events": 232046, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_54.root", 
+                "nevents": 232046, 
+                "totEvents": 232046, 
+                "weights": 109373.078125
+            }, 
+            {
+                "bad": false, 
+                "events": 216028, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_55.root", 
+                "nevents": 216028, 
+                "totEvents": 216028, 
+                "weights": 102234.7890625
+            }, 
+            {
+                "bad": false, 
+                "events": 194052, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_56.root", 
+                "nevents": 194052, 
+                "totEvents": 194052, 
+                "weights": 91795.4375
+            }, 
+            {
+                "bad": true, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_58.root", 
+                "nevents": 221525
+            }, 
+            {
+                "bad": false, 
+                "events": 215087, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_59.root", 
+                "nevents": 215087, 
+                "totEvents": 215087, 
+                "weights": 101803.640625
+            }, 
+            {
+                "bad": true, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_61.root", 
+                "nevents": 213991
+            }, 
+            {
+                "bad": false, 
+                "events": 212264, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_62.root", 
+                "nevents": 212264, 
+                "totEvents": 212264, 
+                "weights": 100179.7578125
+            }, 
+            {
+                "bad": false, 
+                "events": 231102, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_64.root", 
+                "nevents": 231102, 
+                "totEvents": 231102, 
+                "weights": 109286.875
+            }, 
+            {
+                "bad": false, 
+                "events": 224980, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_65.root", 
+                "nevents": 224980, 
+                "totEvents": 224980, 
+                "weights": 106702.9609375
+            }, 
+            {
+                "bad": false, 
+                "events": 205981, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_66.root", 
+                "nevents": 205981, 
+                "totEvents": 205981, 
+                "weights": 97689.03125
+            }, 
+            {
+                "bad": false, 
+                "events": 209845, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_67.root", 
+                "nevents": 209845, 
+                "totEvents": 209845, 
+                "weights": 98724.21875
+            }, 
+            {
+                "bad": false, 
+                "events": 238640, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_68.root", 
+                "nevents": 238640, 
+                "totEvents": 238640, 
+                "weights": 112808.8828125
+            }, 
+            {
+                "bad": true, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_69.root", 
+                "nevents": 189025
+            }, 
+            {
+                "bad": false, 
+                "events": 204257, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_7.root", 
+                "nevents": 204257, 
+                "totEvents": 204257, 
+                "weights": 96823.9296875
+            }, 
+            {
+                "bad": false, 
+                "events": 209750, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_70.root", 
+                "nevents": 209750, 
+                "totEvents": 209750, 
+                "weights": 99197.1796875
+            }, 
+            {
+                "bad": false, 
+                "events": 202529, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_71.root", 
+                "nevents": 202529, 
+                "totEvents": 202529, 
+                "weights": 95535.5546875
+            }, 
+            {
+                "bad": false, 
+                "events": 228277, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_72.root", 
+                "nevents": 228277, 
+                "totEvents": 228277, 
+                "weights": 108183.6953125
+            }, 
+            {
+                "bad": false, 
+                "events": 219957, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_73.root", 
+                "nevents": 219957, 
+                "totEvents": 219957, 
+                "weights": 104047.671875
+            }, 
+            {
+                "bad": false, 
+                "events": 228591, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_74.root", 
+                "nevents": 228591, 
+                "totEvents": 228591, 
+                "weights": 107920.796875
+            }, 
+            {
+                "bad": false, 
+                "events": 208810, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_75.root", 
+                "nevents": 208810, 
+                "totEvents": 208810, 
+                "weights": 98530.015625
+            }, 
+            {
+                "bad": false, 
+                "events": 240362, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_76.root", 
+                "nevents": 240362, 
+                "totEvents": 240362, 
+                "weights": 113551.0703125
+            }, 
+            {
+                "bad": true, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_77.root", 
+                "nevents": 220423
+            }, 
+            {
+                "bad": true, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_78.root", 
+                "nevents": 234715
+            }, 
+            {
+                "bad": false, 
+                "events": 215718, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_79.root", 
+                "nevents": 215718, 
+                "totEvents": 215718, 
+                "weights": 102052.015625
+            }, 
+            {
+                "bad": true, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_8.root", 
+                "nevents": 204726
+            }, 
+            {
+                "bad": false, 
+                "events": 208023, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_83.root", 
+                "nevents": 208023, 
+                "totEvents": 208023, 
+                "weights": 98243.984375
+            }, 
+            {
+                "bad": true, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_84.root", 
+                "nevents": 193738
+            }, 
+            {
+                "bad": true, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_85.root", 
+                "nevents": 213363
+            }, 
+            {
+                "bad": true, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_86.root", 
+                "nevents": 205511
+            }, 
+            {
+                "bad": true, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_87.root", 
+                "nevents": 193267
+            }, 
+            {
+                "bad": false, 
+                "events": 202684, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_88.root", 
+                "nevents": 202684, 
+                "totEvents": 202684, 
+                "weights": 95841.8046875
+            }, 
+            {
+                "bad": true, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_89.root", 
+                "nevents": 223254
+            }, 
+            {
+                "bad": true, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_9.root", 
+                "nevents": 210223
+            }, 
+            {
+                "bad": false, 
+                "events": 213205, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_90.root", 
+                "nevents": 213205, 
+                "totEvents": 213205, 
+                "weights": 100585.65625
+            }, 
+            {
+                "bad": false, 
+                "events": 214775, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_91.root", 
+                "nevents": 214775, 
+                "totEvents": 214775, 
+                "weights": 101262.5390625
+            }, 
+            {
+                "bad": true, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_92.root", 
+                "nevents": 225135
+            }, 
+            {
+                "bad": false, 
+                "events": 205513, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_94.root", 
+                "nevents": 205513, 
+                "totEvents": 205513, 
+                "weights": 97120.9609375
+            }, 
+            {
+                "bad": true, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_95.root", 
+                "nevents": 211005
+            }, 
+            {
+                "bad": true, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_96.root", 
+                "nevents": 208649
+            }, 
+            {
+                "bad": true, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_97.root", 
+                "nevents": 202372
+            }, 
+            {
+                "bad": false, 
+                "events": 216970, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_98.root", 
+                "nevents": 216970, 
+                "totEvents": 216970, 
+                "weights": 102688.2734375
+            }, 
+            {
+                "bad": false, 
+                "events": 219483, 
+                "name": "/store/user/soffi/flashgg/RunIIFall15DR76-1_3_0-25ns_SherpaDipho/1_3_0/DiPhotonJetsBox_MGG-80toInf_13TeV-Sherpa/RunIIFall15DR76-1_3_0-25ns_SherpaDipho-1_3_0-v0-RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/160404_153944/0000/myMicroAODOutputFile_99.root", 
+                "nevents": 219483, 
+                "totEvents": 219483, 
+                "weights": 103964.6875
+            }
+        ], 
+        "vetted": true
+    }
+}
